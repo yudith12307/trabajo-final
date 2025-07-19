@@ -1,0 +1,66 @@
+/* Estilo general */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: linear-gradient(to right, #5a0f0f, #8b0000); /* fondo guinda */
+  color: #fff;
+  padding: 20px;
+  margin: 0;
+}
+
+/* Encabezados principales */
+#datos_alumno h2 {
+  margin: 10px 0;
+  text-align: center;
+  color: #ffd6dc;
+}
+
+hr {
+  border: 1px solid #ffd6dc;
+  margin: 30px 0;
+}
+
+/* Encabezados de sección */
+h2 {
+  margin-top: 30px;
+  color: #ffccd5;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+/* Estilo general para todas las tablas */
+table {
+  width: 90%;
+  margin: 0 auto 30px;
+  border-collapse: collapse;
+  background-color: rgba(255, 255, 255, 0.1);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+/* Encabezado de tabla */
+table thead {
+  background-color: #a31621; /* guinda fuerte */
+  color: white;
+  font-weight: bold;
+}
+
+table thead th {
+  padding: 12px;
+  text-align: center;
+  border-bottom: 1px solid #fff;
+}
+
+/* Cuerpo de tabla */
+table tbody td {
+  padding: 10px;
+  text-align: center;
+  border: 1px solid #ffd6dc;
+  color: #fff;
+}
+
+/* Hover sobre filas */
+table tbody tr:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+  transition: background-color 0.3s;
+}

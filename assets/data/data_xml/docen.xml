@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<docentes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<docente>
+		<dni>34562766</dni>
+		<nombre>RENE </nombre>
+		<apellido>QUIRITA</apellido>
+		<edad>BASE DE DATOS</edad>
+	</docente>
+	<docente>
+		<dni>56894321</dni>
+		<nombre>YHON</nombre>
+		<apellido>TACO</apellido>
+		<edad>APLICACIONES WEB</edad>
+	</docente>
+	<docente>
+		<dni>87542344</dni>
+		<nombre>VANESA </nombre>
+		<apellido>HUAMANI</apellido>
+		<edad>WEB SERVICE</edad>
+	</docente>
+</docentes>

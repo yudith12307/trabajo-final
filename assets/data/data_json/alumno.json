@@ -1,0 +1,29 @@
+{
+    "estudiantes": [
+      {
+        "dni": "24012345",
+        "nombre": "DARIO",
+        "apellido": "HUASPA",
+        "edad": 20
+      },
+      {
+        "dni": "24023456",
+        "nombre": "ELADIO",
+        "apellido": "CORNEJO",
+        "edad": 22
+      },
+      {
+        "dni": "24034567",
+        "nombre": "ALEJANDRA",
+        "apellido": "COSIO",
+        "edad": 19
+      },
+      {
+        "dni": "24045678",
+        "nombre": "LUISA",
+        "apellido": "ARCE",
+        "edad": 21
+      }
+    ]
+  }
+  
